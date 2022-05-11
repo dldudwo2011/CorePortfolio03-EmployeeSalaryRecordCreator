@@ -1,0 +1,26 @@
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\bin\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.exe
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\bin\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.deps.json
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\bin\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.runtimeconfig.json
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\bin\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.runtimeconfig.dev.json
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\bin\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.dll
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\bin\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.pdb
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\obj\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.csprojAssemblyReference.cache
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\obj\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.AssemblyInfoInputs.cache
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\obj\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.AssemblyInfo.cs
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\obj\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.csproj.CoreCompileInputs.cache
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\obj\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.dll
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\obj\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.pdb
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\obj\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.genruntimeconfig.cache
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\bin\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.exe
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\bin\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.deps.json
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\bin\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.runtimeconfig.json
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\bin\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.runtimeconfig.dev.json
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\bin\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.dll
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\bin\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.pdb
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\obj\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.csprojAssemblyReference.cache
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\obj\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.AssemblyInfoInputs.cache
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\obj\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.AssemblyInfo.cs
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\obj\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.csproj.CoreCompileInputs.cache
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\obj\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.dll
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\obj\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.pdb
+C:\Users\skske\Desktop\cpsc1012(C#)\CorePortfolio\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\CorePortfolio03-Youngjae Lee\obj\Debug\netcoreapp3.1\CorePortfolio03-Youngjae Lee.genruntimeconfig.cache
